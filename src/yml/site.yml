@@ -1,13 +1,9 @@
 name: Peter Marsh
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: "Hi, I'm Peter :) Welcome to my website"
+description: "A UCLA Engineering Grad with a BS in Biomedical Engineering
+and an emphasis in Computer Science. Click learn more about me!"
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - about me
 show_hero: true
 menu:
   - title: Home

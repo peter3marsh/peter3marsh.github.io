@@ -1,14 +1,10 @@
 # Site Settings
 name: Peter Marsh
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: "Hi, I'm Peter :) Welcome to my website"
+description: "A UCLA Engineering Grad with a BS in Biomedical Engineering
+and an emphasis in Computer Science. Click learn more about me!"
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - about me
 show_hero: true
 menu:
   - title: Home
@@ -29,12 +25,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: peter3marsh
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
+medium_username: 
 
 
 # Posts Settings
@@ -105,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version:
