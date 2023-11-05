@@ -2,7 +2,7 @@
 date: 2023-11-03T23:48:05.000Z
 layout: post
 title: "Hi I'm Peter (:"
-subtitle: "Recent UCLA Engineering Grad with a degree in Biomedical Engineering and emphasis in Computer Science."
+subtitle: "Recent UCLA Engineering Grad with a BS in Biomedical Engineering and emphasis in Computer Science."
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -13,7 +13,6 @@ optimized_image: >-
 category: blog
 tags:
   - welcome
-  - blog
 author: mranderson
 paginate: true
 ---

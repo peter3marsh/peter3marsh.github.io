@@ -82,7 +82,7 @@ translations:
     next_page: "Next Page"
     next_post: "Previous Page"
   recommendation:
-    text: "Why don't you read something next?"
+    text: "Learn more about me and what I do..."
     back_btn: "Go back to top"
   error_404:
     title: "Page not found :("
