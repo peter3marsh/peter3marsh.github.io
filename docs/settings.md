@@ -229,7 +229,7 @@ The theme settings are in [`src/yml/theme.yml`](https://github.com/thiagorossene
 
 It's a known issue that you can't run Gulp when deploying the website into GitHub pages. So, you must change the theme colors and run `gulp build` locally, then push the changes into your repo, there is no other way.
 
-To see how your website is going to look like when you deploy it, run `bundle exec jekyll serve` and access `http://127.0.0.1:4000/`.
+To see how your website is going to look like when you deploy it, run `bundle exec jekyll serve` and access `https://127.0.0.1:4000/`.
 
 #### `themeColor`
 
