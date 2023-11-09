@@ -12,8 +12,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: My CV
+    url: /myCV
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: 

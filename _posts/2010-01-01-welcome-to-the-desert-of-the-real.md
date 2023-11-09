@@ -16,4 +16,22 @@ tags:
 author: mranderson
 paginate: true
 ---
-More to come here soon...
+## Welcome to my website! Let me tell you a little more about myself.
+
+I'm graduating from <strong>UCLA</strong> in December of 2023 with my degree in Biomedical Engineering and an emphasis in Computer Science. After beginning my education at UCLA as a Biomedical Engineer, I discovered a profound enjoyment for software engineering, and added computer science coursework.
+
+### My recent work in Biotech Software Development and AI
+
+Recently I have been working with the Biomedical Imaging Research Institute at <strong>Cedars-Sinai Hospital</strong> in Los Angeles on <em>deep learning and machine learning</em> frameworks for medical image segmentation and disease risk analysis. They asked me to join their team after my senior engineering capstone project, where I led a group of 6 other UCLA engineering students in a project to refine a U-Net Deep Learning framework for segmenting CT images. We then designed a machine learning algorithm to extract features that were relevant indicators of disease risk. 
+
+Since then, I have worked with a couple other segmentation frameworks, which can be found on my <a href="https://github.com/peter3marsh">GitHub</a>. Having had the chance to work in AI research has really opened my eyes to the massive benefits of its development, particularly for the field of biotechnology.
+
+### How I found a love for engineering
+
+I grew up with medical physician parents, and three uncles who worked in software engineering. I knew that I wanted to get my degree in engineering because of my uncles, but also find a way to apply those engineering skills to help others, like my parents. My uncles told me that the most imporant thing an engineering degree teaches you is <em>how to solve problems</em> like an engineer, regardless of which kind of engineering you specialize in, and I've found this to be true for all of my projects.
+
+### My interests outside of work
+
+As you'll find out from other parts of this website, I <strong>love</strong> to travel. In the past year I've been to Iceland, the Netherlands, Ireland, and New Zealand on some fantastic trips. To celebrate my graduation, I'm spending a couple weeks in Argentina at the end of this academic quarter before, hopefully, starting work at the beginning of this coming year.
+
+I'm also a gamer, a musician, and a gym enjoyer. My favorite game series of all time is Bioshock, and I've played flute for 14 years in quite a few orchestras and other ensembles.
