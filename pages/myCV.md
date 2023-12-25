@@ -7,4 +7,4 @@ description: Some description.
 permalink: /myCV/
 ---
 
-# Feel free to <a href="/assets/img/Resume.pdf" download="PMARSH.RESUME">download my CV</a> if you're an interested employer!
+# Feel free to <a href="/assets/img/Resume.pdf" download="petermarshresume.pdf">download my CV</a> if you're an interested employer!
