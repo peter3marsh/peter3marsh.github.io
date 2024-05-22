@@ -25,9 +25,13 @@ paginate: true
 
 ## Work Experience
 
-### Lead Software Engineer/Reseach Intern
+### Research Associate/AI Software Engineer
 <strong>Cedars-Sinai Hospital Medical Imaging (Los Angeles)</strong>
-<p>In my senior year at UCLA I cooperated with the <abbr title="Biomedical Imaging Research Institute">BIRI</abbr> at Cedars-Sinai Hospital to put together our capstone project. For this project I led a team of 6 other UCLA engineers to refine a U-Net <abbr title="Deep Learning">DL</abbr> model used to segment abdominal CT Scans. We then used those segmented images along with a separate <abbr title="Machine Learning">ML</abbr> model to create an automated workflow for identifying patients with CT scans that showed possible signs of <abbr title="Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)">PDAC</abbr>. After we presented this project to the Biomedical Engineering Board at UCLA, the group at Cedars-Sinai asked me to join their team as an intern. Since then I have been working with them on other DL and ML models that perform similar disease diagnoses.</p>
+<p>In my senior year at UCLA I cooperated with the <abbr title="Biomedical Imaging Research Institute">BIRI</abbr> at Cedars-Sinai Hospital to put together our capstone project. For this project I led a team of 6 other UCLA engineers to refine a U-Net <abbr title="Deep Learning">DL</abbr> model used to segment abdominal CT Scans. We then used those segmented images along with a separate <abbr title="Machine Learning">ML</abbr> model to create an automated workflow for identifying patients with CT scans that showed possible signs of <abbr title="Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)">PDAC</abbr>. After we presented this project to the Biomedical Engineering Board at UCLA, the group at Cedars-Sinai asked me to join their team as an intern. Since then, they have promoted me to the position of Research Associate as I continue to work on developing and training ML/DL models and publish written research.</p>
+
+### Startup Backend Software Engineer
+<strong>Lintbook Homeowner Expense Application</strong>
+<p>Recently I worked with a startup app project intended to help homeowners track their spending on house projects/purchases. As a backend engineer, I set up a workflow using AWS services that allows app subscribers to forward their invoices to an email inbox, and use computer vision to automatically extract data from the invoice and create a receipt in the app for the user. Part of the code used for data extraction was also used to extract data from files directly uploaded to the app in a very similar manner.</p>
 
 ### Software Engineer
 <strong>UCLA <abbr title="Biomedical Engineering Society">BMES</abbr> Design Team</strong>
