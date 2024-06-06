@@ -20,7 +20,7 @@ paginate: true
 
 ### Current AI Projects
 
-My current primary project involves desgining and training a deep learning model for segmenting the pancreas and any possible tumors in abdominal CT scans. This model will be integrated with a larger end-to-end process intended for clinical applications, wherein we are able to assess the risk of pancreatic adenocarcinoma (PDAC) for a given patient using their medical history and the data from my DL model in a subsequent machine learning model.
+My current primary project involves designing and training a deep learning model for segmenting the pancreas and any possible tumors in abdominal CT scans. This model will be integrated with a larger end-to-end process intended for clinical applications, wherein we are able to assess the risk of pancreatic adenocarcinoma (PDAC) for a given patient using their medical history and the data from my DL model in a subsequent machine learning model.
 
 I have another ongoing project at Cedars-Sinai hospital using one deep learning network, and one maching learning framework to perform segmentation on retinal vessels (under FullRes-UNet and RVGAN-Segmentation in Github). These two each provide somewhat different approaches to the segmentation tasks, but both are being trained on the public CHASEDB1, STARE, and DRIVE fundus image sets. The purpose of this research is to <em>hopefully</em> find a way to segment and define the junctions between vessels, as well as identify any possible signs of disease (the most prominent of which is diabetes).
 
@@ -32,7 +32,7 @@ In my third year as an undergraduate I worked with another team of UCLA engineer
 
 ### Past AI Projects
 
-For othe final project in my senior machine learning course, I worked on computer vision model intended for classifying students as either UCLA or USC students based on pictures of them. I trained it on a self-compiled dataset of images from each of the schools' merch advertisements. This was the first work that I did with computer vision, and helped me decide to work on the capstone project with Cedars-Sinai's Biomedical Imaging Research Department.
+For other final project in my senior machine learning course, I worked on computer vision model intended for classifying students as either UCLA or USC students based on pictures of them. I trained it on a self-compiled dataset of images from each of the schools' merch advertisements. This was the first work that I did with computer vision, and helped me decide to work on the capstone project with Cedars-Sinai's Biomedical Imaging Research Department.
 
 Additionally, as a more rudimentary exercise in AI design with MATLAB, I took the opportunity in one of my classes to desgin a simulated ant farm. In this project there is a queen and many worker ants; these ants are tasked with exploring the environment until they find food, before bringing that food back to the queen. To do this, all workers emit <em>blue</em> pheromones when they are searching for food, and red pheromones when they have found food. Ants with food can follow the blue back to the queen, while ants in search of the food follow the red to find it.
 

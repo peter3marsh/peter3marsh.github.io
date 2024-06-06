@@ -1,5 +1,5 @@
 ---
-date: 2023-11-07 11:48:05
+date: 2024-01-07 11:48:05
 layout: post
 title: "Education & Work"
 subtitle: "My education at UCLA and work experience"
@@ -21,7 +21,7 @@ paginate: true
 
 ### B.S. Biomedical Engineering, Computer Science Emphasis
 <strong>UCLA Samueli School of Engineering 2023</strong>
-<p>I am graduating from UCLA's Samueli School of Engineering this December 2023! I chose to get my degree in Biomedical Engineering because of my interest in the rapidly growing field of biotechnology. While I primarily have focused my coursework around data science and software engineering, I have taken a wide breadth of classes on other subjects involving drug design/chemical engineering as well as robotics.</p>
+<p>I graduated from UCLA's Samueli School of Engineering this December 2023! I chose to get my degree in Biomedical Engineering because of my interest in the rapidly growing field of biotechnology. While I primarily have focused my coursework around data science and software engineering, I have taken a wide breadth of classes on other subjects involving drug design/chemical engineering as well as robotics.</p>
 
 ## Work Experience
 
@@ -43,4 +43,4 @@ paginate: true
 
 ### Teaching Aide 
 <strong>University of Washington -- MATH 120</strong>
-<p>In my junior year my math teacher at Roosevelt High School (who also teaches summer courses at UW) asked me if I would come be her TA for the summer. This was my first real job, and an extremely rewarding one at that. I graded and recorded assignments for classes of 60+ students, and assisted professor in organising lectures and accompanying coursework as well as providing out of class office hours for students in need of extra help.</p>
+<p>In my junior year my math teacher at Roosevelt High School (who also teaches summer courses at UW) asked me if I would come be her TA for the summer. This was my first real job, and an extremely rewarding one at that. I graded and recorded assignments for classes of 60+ students, and assisted professor in organizing lectures and accompanying coursework as well as providing out of class office hours for students in need of extra help.</p>
