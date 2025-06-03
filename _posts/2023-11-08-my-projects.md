@@ -13,16 +13,18 @@ category:
 tags:
   - computer science
   - biotech
+  - AI
+  - machine learning
 author: mranderson
 paginate: true
 ---
 <strong> Please feel free to check out my <a href="https://github.com/peter3marsh">Github account</a> for some of the code to these projects.
 
-### Current AI Projects
+### Recent AI Projects
 
-My current primary project involves designing and training a deep learning model for segmenting the pancreas and any possible tumors in abdominal CT scans. This model will be integrated with a larger end-to-end process intended for clinical applications, wherein we are able to assess the risk of pancreatic adenocarcinoma (PDAC) for a given patient using their medical history and the data from my DL model in a subsequent machine learning model.
+My primary project at Cedars-Sinai involved designing and training a deep learning model for segmenting the pancreas and any possible tumors in abdominal CT scans. This model is integrated with a larger end-to-end process intended for clinical applications, wherein we are able to assess the risk of pancreatic adenocarcinoma (PDAC) for a given patient using their medical history and the data from my DL model in a subsequent machine learning model.
 
-I have another ongoing project at Cedars-Sinai hospital using one deep learning network, and one maching learning framework to perform segmentation on retinal vessels (under FullRes-UNet and RVGAN-Segmentation in Github). These two each provide somewhat different approaches to the segmentation tasks, but both are being trained on the public CHASEDB1, STARE, and DRIVE fundus image sets. The purpose of this research is to <em>hopefully</em> find a way to segment and define the junctions between vessels, as well as identify any possible signs of disease (the most prominent of which is diabetes).
+During my time at Cedars-Sinai hospital I also had another ongoing project using one deep learning network, and one maching learning framework to perform segmentation on retinal vessels (under FullRes-UNet and RVGAN-Segmentation in Github). These two each provide somewhat different approaches to the segmentation tasks, but both are being trained on the public CHASEDB1, STARE, and DRIVE fundus image sets. The purpose of this research is to <em>hopefully</em> find a way to segment and define the junctions between vessels, as well as identify any possible signs of disease (the most prominent of which is diabetes).
 
 ### App Design Projects
 
