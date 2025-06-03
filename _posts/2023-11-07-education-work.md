@@ -1,5 +1,5 @@
 ---
-date: 2024-01-07 11:48:05
+date: 2025-05-02 11:48:05
 layout: post
 title: "Education & Work"
 subtitle: "My education at Northwestern & UCLA, and professional experience"
@@ -8,7 +8,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/dsyak6tlh/image/upload/v1699571437/UCLAno2_h07lfh-Adjusted_Photo_vt8rtq.jpg
 optimized_image: >- 
-  https://res.cloudinary.com/dsyak6tlh/image/upload/v1748920319/Northwestern_Campus_r0bd6h.jpg
+  https://res.cloudinary.com/dsyak6tlh/image/upload/v1748923366/Northwestern_Campus_r0bd6h_Adjusted_Photo_sm3mat.jpg
   
 category: 
 tags:

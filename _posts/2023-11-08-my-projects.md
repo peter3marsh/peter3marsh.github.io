@@ -1,5 +1,5 @@
 ---
-date: 2023-11-08 10:48:05
+date: 2025-3-08 10:48:05
 layout: post
 title: "My Projects"
 subtitle: "Details on some of the projects I've worked on over the years"
