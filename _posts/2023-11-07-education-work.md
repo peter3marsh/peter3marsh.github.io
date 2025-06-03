@@ -6,9 +6,10 @@ subtitle: "My education at Northwestern & UCLA, and professional experience"
 description: >-
   My education at Northwestern & UCLA, and professional experience
 image: >-
-  https://res.cloudinary.com/dsyak6tlh/image/upload/v1748920319/Northwestern_Campus_r0bd6h.jpg
-optimized_image: >- 
   https://res.cloudinary.com/dsyak6tlh/image/upload/v1699571437/UCLAno2_h07lfh-Adjusted_Photo_vt8rtq.jpg
+optimized_image: >- 
+  https://res.cloudinary.com/dsyak6tlh/image/upload/v1748920319/Northwestern_Campus_r0bd6h.jpg
+  
 category: 
 tags:
   - education
